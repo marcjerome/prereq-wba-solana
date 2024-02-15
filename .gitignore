@@ -129,7 +129,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-toBase58.js
+toBase58.ts
 dev-wallet.json
 wba-wallet.json
 privKey.json
